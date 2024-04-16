@@ -1,0 +1,7 @@
+  {
+    "drive_path": " ",
+    "threshold_gb": 19,
+    "slack_channel_id": "sohail_data_monitoring",
+    "slack_token": "Slack tocken",
+    "folders_to_clean": ["folder 1 to monitor", "folder 2 to monitor"]
+}
